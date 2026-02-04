@@ -11,7 +11,7 @@
 		(top_margin 10)
 		(bottom_margin 10)
 	)
-	(tbtext "Sheet         : ${SHEETPATH} ${SHEETNAME} (${SHEETFILE})  Page ${#}/${##}\nProject/File  : ${PROJECTNAME} / ${FILENAME}"
+	(tbtext "Sheet         : ${SHEETPATH} ${SHEETNAME}  Page ${#}/${##}\nProject/File  : ${PROJECTNAME} / ${FILENAME}"
 		(name "")
 		(pos -7.62 -7.62 ltcorner)
 		(font
